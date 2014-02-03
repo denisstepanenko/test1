@@ -1,4 +1,0 @@
-hjk 
-new file
-test line localtest line remote(git)
-asdf
